@@ -19,6 +19,7 @@ Fixed io.copy. problem is io.copy return error code ELO
 
 ## tcpBashServerV6
 goal is returning the bash output to the client
+Works with termV2 (prr123/term)
 
 ## tcpBashServerV7
 goal is creating a loop
