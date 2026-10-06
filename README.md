@@ -1,6 +1,6 @@
 # tcpBashServer
 
-tcp Server that processes bash from a tcp client.
+tcp Server that processes bash from a tcp client.  
 The tcp server manages commands to bash via pty terminal.
 
 
@@ -18,7 +18,7 @@ In the test case it was 3.
 Fixed io.copy. problem is io.copy return error code ELO
 
 ## tcpBashServerV6
-goal is returning the bash output to the client
+goal is returning the bash output to the client.  
 Works with termV2 (prr123/term)
 
 ## tcpBashServerV7
